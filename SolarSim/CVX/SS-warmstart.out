@@ -1,0 +1,452 @@
+SolarSim started at 2022-04-06T23:18:34
+SolarSim read in completed at 2022-04-06T23:18:35
+SolarSim finished at 561 seconds started at 2022-04-06T23:18:34
+[-0.07512797  0.07104097 -0.81824523  1.64811937  0.9090068 ]:
+Min:24.44	End:47.12	Max:80.02	CostFunction:-47.12
+Driving Time:149945	Average Velocity:72.53	Vstd:3.877
+SolarSim started at 2022-04-06T23:28:10
+SolarSim read in completed at 2022-04-06T23:28:11
+SolarSim finished at 571 seconds started at 2022-04-06T23:28:10
+[ 0.42487203  0.07104097 -0.81824523  1.64811937  0.9090068 ]:
+Min:23.56	End:46.02	Max:80.02	CostFunction:-46.02
+Driving Time:149859	Average Velocity:72.57	Vstd:4.038
+SolarSim started at 2022-04-06T23:37:55
+SolarSim read in completed at 2022-04-06T23:37:56
+SolarSim finished at 565 seconds started at 2022-04-06T23:37:55
+[-0.07512797  0.57104097 -0.81824523  1.64811937  0.9090068 ]:
+Min:21.11	End:44.16	Max:82.3	CostFunction:-44.16
+Driving Time:149999	Average Velocity:72.5	Vstd:4.721
+SolarSim started at 2022-04-06T23:47:34
+SolarSim read in completed at 2022-04-06T23:47:35
+SolarSim finished at 565 seconds started at 2022-04-06T23:47:34
+[-0.07512797  0.07104097 -0.31824523  1.64811937  0.9090068 ]:
+Min:24.37	End:47.13	Max:80.02	CostFunction:-47.13
+Driving Time:149939	Average Velocity:72.53	Vstd:3.84
+SolarSim started at 2022-04-06T23:57:13
+SolarSim read in completed at 2022-04-06T23:57:14
+SolarSim finished at 567 seconds started at 2022-04-06T23:57:13
+[-0.07512797  0.07104097 -0.81824523  2.14811937  0.9090068 ]:
+Min:24.43	End:47.08	Max:80.02	CostFunction:-47.08
+Driving Time:149967	Average Velocity:72.52	Vstd:4.261
+SolarSim started at 2022-04-07T00:06:56
+SolarSim read in completed at 2022-04-07T00:06:56
+SolarSim finished at 564 seconds started at 2022-04-07T00:06:56
+[-0.07512797  0.07104097 -0.81824523  1.64811937  1.4090068 ]:
+Min:26.11	End:48.46	Max:80.02	CostFunction:-48.46
+Driving Time:149950	Average Velocity:72.53	Vstd:4.178
+SolarSim started at 2022-04-07T00:16:44
+SolarSim read in completed at 2022-04-07T00:16:45
+SolarSim finished at 602 seconds started at 2022-04-07T00:16:44
+[-2.26259397 -5.         -0.78796723  1.58013337  3.5837128 ]:
+Min:-0.01647	End:82.17	Max:100.0	CostFunction:9.988e+03
+Driving Time:172543	Average Velocity:63.03	Vstd:24.88
+SolarSim started at 2022-04-07T00:27:11
+SolarSim read in completed at 2022-04-07T00:27:12
+SolarSim finished at 597 seconds started at 2022-04-07T00:27:11
+[-1.76259397 -5.         -0.78796723  1.58013337  3.5837128 ]:
+Min:-0.01765	End:59.17	Max:100.0	CostFunction:8.162e+03
+Driving Time:167625	Average Velocity:64.88	Vstd:26.64
+SolarSim started at 2022-04-07T00:37:33
+SolarSim read in completed at 2022-04-07T00:37:33
+SolarSim finished at 580 seconds started at 2022-04-07T00:37:33
+[-2.26259397 -4.5        -0.78796723  1.58013337  3.5837128 ]:
+Min:-0.01929	End:1.669	Max:80.02	CostFunction:3.209e+03
+Driving Time:155612	Average Velocity:69.89	Vstd:25.59
+SolarSim started at 2022-04-07T00:47:37
+SolarSim read in completed at 2022-04-07T00:47:38
+SolarSim finished at 611 seconds started at 2022-04-07T00:47:37
+[-2.26259397 -5.         -0.28796723  1.58013337  3.5837128 ]:
+Min:-0.01633	End:82.43	Max:100.0	CostFunction:1.015e+04
+Driving Time:172999	Average Velocity:62.87	Vstd:24.55
+SolarSim started at 2022-04-07T00:58:12
+SolarSim read in completed at 2022-04-07T00:58:13
+SolarSim finished at 626 seconds started at 2022-04-07T00:58:12
+[-2.26259397 -5.         -0.78796723  2.08013337  3.5837128 ]:
+Min:79.99	End:99.97	Max:100.0	CostFunction:1.922e+04
+Driving Time:177840	Average Velocity:54.68	Vstd:20.53
+SolarSim started at 2022-04-07T01:09:02
+SolarSim read in completed at 2022-04-07T01:09:02
+SolarSim finished at 607 seconds started at 2022-04-07T01:09:02
+[-2.26259397 -5.         -0.78796723  1.58013337  4.0837128 ]:
+Min:-0.01601	End:67.2	Max:100.0	CostFunction:8.57e+03
+Driving Time:168707	Average Velocity:64.46	Vstd:26.34
+SolarSim started at 2022-04-07T01:19:29
+SolarSim read in completed at 2022-04-07T01:19:30
+SolarSim finished at 544 seconds started at 2022-04-07T01:19:29
+[-0.65344783 -1.26963526 -0.81024037  1.63014531  1.61614263]:
+Min:-0.005762	End:17.96	Max:80.02	CostFunction:82.04
+Driving Time:150673	Average Velocity:72.18	Vstd:9.776
+SolarSim started at 2022-04-07T01:28:54
+SolarSim read in completed at 2022-04-07T01:28:54
+SolarSim finished at 561 seconds started at 2022-04-07T01:28:54
+[-0.15344783 -1.26963526 -0.81024037  1.63014531  1.61614263]:
+Min:-0.00051	End:18.01	Max:80.02	CostFunction:81.99
+Driving Time:150428	Average Velocity:72.3	Vstd:9.501
+SolarSim started at 2022-04-07T01:38:35
+SolarSim read in completed at 2022-04-07T01:38:35
+SolarSim finished at 566 seconds started at 2022-04-07T01:38:35
+[-0.65344783 -0.76963526 -0.81024037  1.63014531  1.61614263]:
+Min:22.29	End:44.54	Max:80.02	CostFunction:-44.54
+Driving Time:149982	Average Velocity:72.51	Vstd:6.541
+SolarSim started at 2022-04-07T01:48:20
+SolarSim read in completed at 2022-04-07T01:48:21
+SolarSim finished at 558 seconds started at 2022-04-07T01:48:20
+[-0.65344783 -1.26963526 -0.31024037  1.63014531  1.61614263]:
+Min:-0.009141	End:18.09	Max:80.02	CostFunction:81.91
+Driving Time:150616	Average Velocity:72.21	Vstd:9.71
+SolarSim started at 2022-04-07T01:57:59
+SolarSim read in completed at 2022-04-07T01:58:00
+SolarSim finished at 560 seconds started at 2022-04-07T01:57:59
+[-0.65344783 -1.26963526 -0.81024037  2.13014531  1.61614263]:
+Min:-0.01211	End:17.84	Max:80.02	CostFunction:82.16
+Driving Time:150722	Average Velocity:72.16	Vstd:9.92
+SolarSim started at 2022-04-07T02:07:39
+SolarSim read in completed at 2022-04-07T02:07:40
+SolarSim finished at 558 seconds started at 2022-04-07T02:07:39
+[-0.65344783 -1.26963526 -0.81024037  1.63014531  2.11614263]:
+Min:-0.006243	End:17.51	Max:80.02	CostFunction:82.49
+Driving Time:150516	Average Velocity:72.26	Vstd:9.839
+SolarSim started at 2022-04-07T02:17:12
+SolarSim read in completed at 2022-04-07T02:17:13
+SolarSim finished at 558 seconds started at 2022-04-07T02:17:12
+[-0.10732201 -0.00359211 -0.81779961  1.64711879  0.9483718 ]:
+Min:24.54	End:47.17	Max:80.02	CostFunction:-47.17
+Driving Time:149934	Average Velocity:72.54	Vstd:3.896
+SolarSim started at 2022-04-07T02:26:47
+SolarSim read in completed at 2022-04-07T02:26:48
+SolarSim finished at 558 seconds started at 2022-04-07T02:26:47
+[ 0.39267799 -0.00359211 -0.81779961  1.64711879  0.9483718 ]:
+Min:23.71	End:46.16	Max:80.02	CostFunction:-46.16
+Driving Time:149859	Average Velocity:72.57	Vstd:4.031
+SolarSim started at 2022-04-07T02:36:22
+SolarSim read in completed at 2022-04-07T02:36:23
+SolarSim finished at 562 seconds started at 2022-04-07T02:36:22
+[-0.10732201  0.49640789 -0.81779961  1.64711879  0.9483718 ]:
+Min:21.75	End:44.69	Max:81.06	CostFunction:-44.69
+Driving Time:149989	Average Velocity:72.51	Vstd:4.538
+SolarSim started at 2022-04-07T02:45:59
+SolarSim read in completed at 2022-04-07T02:46:00
+SolarSim finished at 575 seconds started at 2022-04-07T02:45:59
+[-0.10732201 -0.00359211 -0.31779961  1.64711879  0.9483718 ]:
+Min:24.48	End:47.18	Max:80.02	CostFunction:-47.18
+Driving Time:149928	Average Velocity:72.54	Vstd:3.857
+SolarSim started at 2022-04-07T02:55:49
+SolarSim read in completed at 2022-04-07T02:55:50
+SolarSim finished at 551 seconds started at 2022-04-07T02:55:49
+[-0.10732201 -0.00359211 -0.81779961  2.14711879  0.9483718 ]:
+Min:24.57	End:47.15	Max:80.02	CostFunction:-47.15
+Driving Time:149958	Average Velocity:72.52	Vstd:4.278
+SolarSim started at 2022-04-07T03:05:15
+SolarSim read in completed at 2022-04-07T03:05:16
+SolarSim finished at 566 seconds started at 2022-04-07T03:05:15
+[-0.10732201 -0.00359211 -0.81779961  1.64711879  1.4483718 ]:
+Min:26.28	End:48.54	Max:80.02	CostFunction:-48.54
+Driving Time:149940	Average Velocity:72.53	Vstd:4.226
+SolarSim started at 2022-04-07T03:14:58
+SolarSim read in completed at 2022-04-07T03:14:59
+SolarSim finished at 570 seconds started at 2022-04-07T03:14:58
+[-0.47251742 -0.54417086 -0.82207253  1.65045397  1.56372567]:
+Min:23.5	End:45.59	Max:80.02	CostFunction:-45.59
+Driving Time:149920	Average Velocity:72.54	Vstd:5.559
+SolarSim started at 2022-04-07T03:24:43
+SolarSim read in completed at 2022-04-07T03:24:44
+SolarSim finished at 549 seconds started at 2022-04-07T03:24:43
+[ 0.02748258 -0.54417086 -0.82207253  1.65045397  1.56372567]:
+Min:24.6	End:46.63	Max:80.02	CostFunction:-46.63
+Driving Time:149897	Average Velocity:72.55	Vstd:5.441
+SolarSim started at 2022-04-07T03:34:07
+SolarSim read in completed at 2022-04-07T03:34:07
+SolarSim finished at 569 seconds started at 2022-04-07T03:34:07
+[-0.47251742 -0.04417086 -0.82207253  1.65045397  1.56372567]:
+Min:25.21	End:47.46	Max:80.02	CostFunction:-47.46
+Driving Time:149954	Average Velocity:72.53	Vstd:4.483
+SolarSim started at 2022-04-07T03:43:52
+SolarSim read in completed at 2022-04-07T03:43:53
+SolarSim finished at 566 seconds started at 2022-04-07T03:43:52
+[-0.47251742 -0.54417086 -0.32207253  1.65045397  1.56372567]:
+Min:23.35	End:45.46	Max:80.02	CostFunction:-45.46
+Driving Time:149908	Average Velocity:72.55	Vstd:5.506
+SolarSim started at 2022-04-07T03:53:37
+SolarSim read in completed at 2022-04-07T03:53:38
+SolarSim finished at 567 seconds started at 2022-04-07T03:53:37
+[-0.47251742 -0.54417086 -0.82207253  2.15045397  1.56372567]:
+Min:23.19	End:45.35	Max:80.02	CostFunction:-45.35
+Driving Time:149941	Average Velocity:72.53	Vstd:5.806
+SolarSim started at 2022-04-07T04:03:22
+SolarSim read in completed at 2022-04-07T04:03:22
+SolarSim finished at 569 seconds started at 2022-04-07T04:03:22
+[-0.47251742 -0.54417086 -0.82207253  1.65045397  2.06372567]:
+Min:25.11	End:46.93	Max:80.02	CostFunction:-46.93
+Driving Time:149933	Average Velocity:72.54	Vstd:5.982
+SolarSim started at 2022-04-07T04:13:08
+SolarSim read in completed at 2022-04-07T04:13:09
+SolarSim finished at 567 seconds started at 2022-04-07T04:13:08
+[-0.1887353  -0.12410374 -0.81875218  1.6478623   1.08555311]:
+Min:24.81	End:47.25	Max:80.02	CostFunction:-47.25
+Driving Time:149919	Average Velocity:72.54	Vstd:4.08
+SolarSim started at 2022-04-07T04:22:52
+SolarSim read in completed at 2022-04-07T04:22:53
+SolarSim finished at 567 seconds started at 2022-04-07T04:22:52
+[ 0.3112647  -0.12410374 -0.81875218  1.6478623   1.08555311]:
+Min:24.43	End:46.75	Max:80.02	CostFunction:-46.75
+Driving Time:149870	Average Velocity:72.57	Vstd:4.147
+SolarSim started at 2022-04-07T04:32:37
+SolarSim read in completed at 2022-04-07T04:32:38
+SolarSim finished at 571 seconds started at 2022-04-07T04:32:37
+[-0.1887353   0.37589626 -0.81875218  1.6478623   1.08555311]:
+Min:23.36	End:46.08	Max:80.02	CostFunction:-46.08
+Driving Time:149972	Average Velocity:72.52	Vstd:4.334
+SolarSim started at 2022-04-07T04:42:25
+SolarSim read in completed at 2022-04-07T04:42:26
+SolarSim finished at 572 seconds started at 2022-04-07T04:42:25
+[-0.1887353  -0.12410374 -0.31875218  1.6478623   1.08555311]:
+Min:24.7	End:47.24	Max:80.02	CostFunction:-47.24
+Driving Time:149913	Average Velocity:72.55	Vstd:4.036
+SolarSim started at 2022-04-07T04:52:13
+SolarSim read in completed at 2022-04-07T04:52:14
+SolarSim finished at 567 seconds started at 2022-04-07T04:52:13
+[-0.1887353  -0.12410374 -0.81875218  2.1478623   1.08555311]:
+Min:24.42	End:46.87	Max:80.02	CostFunction:-46.87
+Driving Time:149944	Average Velocity:72.53	Vstd:4.439
+SolarSim started at 2022-04-07T05:01:56
+SolarSim read in completed at 2022-04-07T05:01:56
+SolarSim finished at 566 seconds started at 2022-04-07T05:01:56
+[-0.1887353  -0.12410374 -0.81875218  1.6478623   1.58555311]:
+Min:26.1	End:48.22	Max:80.02	CostFunction:-48.22
+Driving Time:149928	Average Velocity:72.54	Vstd:4.454
+SolarSim started at 2022-04-07T05:11:42
+SolarSim read in completed at 2022-04-07T05:11:42
+SolarSim finished at 554 seconds started at 2022-04-07T05:11:42
+[-0.29525999 -0.27000666 -0.82252992  1.55661649  1.33742647]:
+Min:24.81	End:46.98	Max:80.02	CostFunction:-46.98
+Driving Time:149902	Average Velocity:72.55	Vstd:4.478
+SolarSim started at 2022-04-07T05:21:15
+SolarSim read in completed at 2022-04-07T05:21:16
+SolarSim finished at 572 seconds started at 2022-04-07T05:21:15
+[ 0.20474001 -0.27000666 -0.82252992  1.55661649  1.33742647]:
+Min:25.37	End:47.54	Max:80.02	CostFunction:-47.54
+Driving Time:149882	Average Velocity:72.56	Vstd:4.461
+SolarSim started at 2022-04-07T05:31:07
+SolarSim read in completed at 2022-04-07T05:31:08
+SolarSim finished at 568 seconds started at 2022-04-07T05:31:07
+[-0.29525999  0.22999334 -0.82252992  1.55661649  1.33742647]:
+Min:24.95	End:47.39	Max:80.02	CostFunction:-47.39
+Driving Time:149955	Average Velocity:72.53	Vstd:4.216
+SolarSim started at 2022-04-07T05:40:55
+SolarSim read in completed at 2022-04-07T05:40:56
+SolarSim finished at 570 seconds started at 2022-04-07T05:40:55
+[-0.29525999 -0.27000666 -0.32252992  1.55661649  1.33742647]:
+Min:24.69	End:46.99	Max:80.02	CostFunction:-46.99
+Driving Time:149898	Average Velocity:72.55	Vstd:4.428
+SolarSim started at 2022-04-07T05:50:42
+SolarSim read in completed at 2022-04-07T05:50:42
+SolarSim finished at 571 seconds started at 2022-04-07T05:50:42
+[-0.29525999 -0.27000666 -0.82252992  2.05661649  1.33742647]:
+Min:24.64	End:46.88	Max:80.02	CostFunction:-46.88
+Driving Time:149928	Average Velocity:72.54	Vstd:4.791
+SolarSim started at 2022-04-07T06:00:33
+SolarSim read in completed at 2022-04-07T06:00:34
+SolarSim finished at 554 seconds started at 2022-04-07T06:00:33
+[-0.29525999 -0.27000666 -0.82252992  1.55661649  1.83742647]:
+Min:25.72	End:47.64	Max:80.02	CostFunction:-47.64
+Driving Time:149913	Average Velocity:72.55	Vstd:4.903
+SolarSim started at 2022-04-07T06:10:05
+SolarSim read in completed at 2022-04-07T06:10:06
+SolarSim finished at 576 seconds started at 2022-04-07T06:10:05
+[-0.21085002 -0.15439345 -0.81953644  1.62891951  1.13784247]:
+Min:24.72	End:47.11	Max:80.02	CostFunction:-47.11
+Driving Time:149912	Average Velocity:72.55	Vstd:4.145
+SolarSim started at 2022-04-07T06:19:59
+SolarSim read in completed at 2022-04-07T06:20:00
+SolarSim finished at 564 seconds started at 2022-04-07T06:19:59
+[ 0.28914998 -0.15439345 -0.81953644  1.62891951  1.13784247]:
+Min:24.87	End:47.17	Max:80.02	CostFunction:-47.17
+Driving Time:149871	Average Velocity:72.57	Vstd:4.191
+SolarSim started at 2022-04-07T06:29:42
+SolarSim read in completed at 2022-04-07T06:29:43
+SolarSim finished at 573 seconds started at 2022-04-07T06:29:42
+[-0.21085002  0.34560655 -0.81953644  1.62891951  1.13784247]:
+Min:23.78	End:46.44	Max:80.02	CostFunction:-46.44
+Driving Time:149970	Average Velocity:72.52	Vstd:4.294
+SolarSim started at 2022-04-07T06:39:33
+SolarSim read in completed at 2022-04-07T06:39:33
+SolarSim finished at 573 seconds started at 2022-04-07T06:39:33
+[-0.21085002 -0.15439345 -0.31953644  1.62891951  1.13784247]:
+Min:24.74	End:47.23	Max:80.02	CostFunction:-47.23
+Driving Time:149908	Average Velocity:72.55	Vstd:4.101
+SolarSim started at 2022-04-07T06:49:24
+SolarSim read in completed at 2022-04-07T06:49:25
+SolarSim finished at 566 seconds started at 2022-04-07T06:49:24
+[-0.21085002 -0.15439345 -0.81953644  2.12891951  1.13784247]:
+Min:24.94	End:47.31	Max:80.02	CostFunction:-47.31
+Driving Time:149937	Average Velocity:72.53	Vstd:4.493
+SolarSim started at 2022-04-07T06:59:08
+SolarSim read in completed at 2022-04-07T06:59:09
+SolarSim finished at 568 seconds started at 2022-04-07T06:59:08
+[-0.21085002 -0.15439345 -0.81953644  1.62891951  1.63784247]:
+Min:26.1	End:48.18	Max:80.02	CostFunction:-48.18
+Driving Time:149925	Average Velocity:72.54	Vstd:4.534
+SolarSim started at 2022-04-07T07:08:53
+SolarSim read in completed at 2022-04-07T07:08:54
+SolarSim finished at 566 seconds started at 2022-04-07T07:08:53
+[-0.19142668 -0.12779001 -0.81884762  1.64555695  1.09191675]:
+Min:24.84	End:47.27	Max:80.02	CostFunction:-47.27
+Driving Time:149918	Average Velocity:72.54	Vstd:4.088
+SolarSim started at 2022-04-07T07:18:38
+SolarSim read in completed at 2022-04-07T07:18:39
+SolarSim finished at 566 seconds started at 2022-04-07T07:18:38
+[ 0.30857332 -0.12779001 -0.81884762  1.64555695  1.09191675]:
+Min:24.3	End:46.62	Max:80.02	CostFunction:-46.62
+Driving Time:149870	Average Velocity:72.57	Vstd:4.15
+SolarSim started at 2022-04-07T07:28:21
+SolarSim read in completed at 2022-04-07T07:28:22
+SolarSim finished at 566 seconds started at 2022-04-07T07:28:21
+[-0.19142668  0.37220999 -0.81884762  1.64555695  1.09191675]:
+Min:23.26	End:45.99	Max:80.02	CostFunction:-45.99
+Driving Time:149973	Average Velocity:72.52	Vstd:4.328
+SolarSim started at 2022-04-07T07:38:04
+SolarSim read in completed at 2022-04-07T07:38:05
+SolarSim finished at 566 seconds started at 2022-04-07T07:38:04
+[-0.19142668 -0.12779001 -0.31884762  1.64555695  1.09191675]:
+Min:24.66	End:47.19	Max:80.02	CostFunction:-47.19
+Driving Time:149913	Average Velocity:72.55	Vstd:4.044
+SolarSim started at 2022-04-07T07:47:48
+SolarSim read in completed at 2022-04-07T07:47:49
+SolarSim finished at 574 seconds started at 2022-04-07T07:47:48
+[-0.19142668 -0.12779001 -0.81884762  2.14555695  1.09191675]:
+Min:24.49	End:46.93	Max:80.02	CostFunction:-46.93
+Driving Time:149942	Average Velocity:72.53	Vstd:4.445
+SolarSim started at 2022-04-07T07:57:40
+SolarSim read in completed at 2022-04-07T07:57:41
+SolarSim finished at 573 seconds started at 2022-04-07T07:57:40
+[-0.19142668 -0.12779001 -0.81884762  1.64555695  1.59191675]:
+Min:26.16	End:48.27	Max:80.02	CostFunction:-48.27
+Driving Time:149926	Average Velocity:72.54	Vstd:4.461
+SolarSim started at 2022-04-07T08:07:30
+SolarSim read in completed at 2022-04-07T08:07:31
+SolarSim finished at 565 seconds started at 2022-04-07T08:07:30
+[-0.19363552 -0.13081538 -0.81892596  1.64366493  1.09713947]:
+Min:24.74	End:47.18	Max:80.02	CostFunction:-47.18
+Driving Time:149920	Average Velocity:72.54	Vstd:4.098
+SolarSim started at 2022-04-07T08:17:14
+SolarSim read in completed at 2022-04-07T08:17:15
+SolarSim finished at 565 seconds started at 2022-04-07T08:17:14
+[ 0.30636448 -0.13081538 -0.81892596  1.64366493  1.09713947]:
+Min:24.25	End:46.58	Max:80.02	CostFunction:-46.58
+Driving Time:149869	Average Velocity:72.57	Vstd:4.155
+SolarSim started at 2022-04-07T08:26:55
+SolarSim read in completed at 2022-04-07T08:26:56
+SolarSim finished at 569 seconds started at 2022-04-07T08:26:55
+[-0.19363552  0.36918462 -0.81892596  1.64366493  1.09713947]:
+Min:23.37	End:46.08	Max:80.02	CostFunction:-46.08
+Driving Time:149972	Average Velocity:72.52	Vstd:4.326
+SolarSim started at 2022-04-07T08:36:39
+SolarSim read in completed at 2022-04-07T08:36:40
+SolarSim finished at 566 seconds started at 2022-04-07T08:36:39
+[-0.19363552 -0.13081538 -0.31892596  1.64366493  1.09713947]:
+Min:24.66	End:47.18	Max:80.02	CostFunction:-47.18
+Driving Time:149913	Average Velocity:72.55	Vstd:4.05
+SolarSim started at 2022-04-07T08:46:22
+SolarSim read in completed at 2022-04-07T08:46:23
+SolarSim finished at 566 seconds started at 2022-04-07T08:46:22
+[-0.19363552 -0.13081538 -0.81892596  2.14366493  1.09713947]:
+Min:24.62	End:47.05	Max:80.02	CostFunction:-47.05
+Driving Time:149941	Average Velocity:72.53	Vstd:4.451
+SolarSim started at 2022-04-07T08:56:05
+SolarSim read in completed at 2022-04-07T08:56:06
+SolarSim finished at 563 seconds started at 2022-04-07T08:56:05
+[-0.19363552 -0.13081538 -0.81892596  1.64366493  1.59713947]:
+Min:26.15	End:48.24	Max:80.02	CostFunction:-48.24
+Driving Time:149926	Average Velocity:72.54	Vstd:4.469
+SolarSim started at 2022-04-07T09:05:43
+SolarSim read in completed at 2022-04-07T09:05:43
+SolarSim finished at 567 seconds started at 2022-04-07T09:05:43
+[-0.1915039  -0.12789579 -0.81885036  1.6454908   1.09209935]:
+Min:24.82	End:47.25	Max:80.02	CostFunction:-47.25
+Driving Time:149918	Average Velocity:72.54	Vstd:4.089
+SolarSim started at 2022-04-07T09:15:24
+SolarSim read in completed at 2022-04-07T09:15:25
+SolarSim finished at 553 seconds started at 2022-04-07T09:15:24
+[ 0.3084961  -0.12789579 -0.81885036  1.6454908   1.09209935]:
+Min:24.32	End:46.63	Max:80.02	CostFunction:-46.63
+Driving Time:149870	Average Velocity:72.57	Vstd:4.15
+SolarSim started at 2022-04-07T09:24:52
+SolarSim read in completed at 2022-04-07T09:24:52
+SolarSim finished at 566 seconds started at 2022-04-07T09:24:52
+[-0.1915039   0.37210421 -0.81885036  1.6454908   1.09209935]:
+Min:23.28	End:46.0	Max:80.02	CostFunction:-46.0
+Driving Time:149973	Average Velocity:72.52	Vstd:4.328
+SolarSim started at 2022-04-07T09:34:35
+SolarSim read in completed at 2022-04-07T09:34:36
+SolarSim finished at 567 seconds started at 2022-04-07T09:34:35
+[-0.1915039  -0.12789579 -0.31885036  1.6454908   1.09209935]:
+Min:24.75	End:47.28	Max:80.02	CostFunction:-47.28
+Driving Time:149914	Average Velocity:72.55	Vstd:4.046
+SolarSim started at 2022-04-07T09:44:18
+SolarSim read in completed at 2022-04-07T09:44:18
+SolarSim finished at 564 seconds started at 2022-04-07T09:44:18
+[-0.1915039  -0.12789579 -0.81885036  2.1454908   1.09209935]:
+Min:24.53	End:46.96	Max:80.02	CostFunction:-46.96
+Driving Time:149943	Average Velocity:72.53	Vstd:4.446
+SolarSim started at 2022-04-07T09:54:01
+SolarSim read in completed at 2022-04-07T09:54:01
+SolarSim finished at 567 seconds started at 2022-04-07T09:54:01
+[-0.1915039  -0.12789579 -0.81885036  1.6454908   1.59209935]:
+Min:26.16	End:48.25	Max:80.02	CostFunction:-48.25
+Driving Time:149926	Average Velocity:72.54	Vstd:4.461
+SolarSim started at 2022-04-07T10:03:45
+SolarSim read in completed at 2022-04-07T10:03:46
+SolarSim finished at 569 seconds started at 2022-04-07T10:03:45
+[-0.19142668 -0.12779001 -0.81884762  1.64555695  1.09191675]:
+Min:24.84	End:47.27	Max:80.02	CostFunction:-47.27
+Driving Time:149918	Average Velocity:72.54	Vstd:4.088
+SolarSim started at 2022-04-07T10:13:33
+SolarSim read in completed at 2022-04-07T10:13:33
+SolarSim finished at 569 seconds started at 2022-04-07T10:13:33
+[ 0.30857332 -0.12779001 -0.81884762  1.64555695  1.09191675]:
+Min:24.3	End:46.62	Max:80.02	CostFunction:-46.62
+Driving Time:149870	Average Velocity:72.57	Vstd:4.15
+SolarSim started at 2022-04-07T10:23:20
+SolarSim read in completed at 2022-04-07T10:23:21
+SolarSim finished at 573 seconds started at 2022-04-07T10:23:20
+[-0.19142668  0.37220999 -0.81884762  1.64555695  1.09191675]:
+Min:23.26	End:45.99	Max:80.02	CostFunction:-45.99
+Driving Time:149973	Average Velocity:72.52	Vstd:4.328
+SolarSim started at 2022-04-07T10:33:10
+SolarSim read in completed at 2022-04-07T10:33:10
+SolarSim finished at 570 seconds started at 2022-04-07T10:33:10
+[-0.19142668 -0.12779001 -0.31884762  1.64555695  1.09191675]:
+Min:24.66	End:47.19	Max:80.02	CostFunction:-47.19
+Driving Time:149913	Average Velocity:72.55	Vstd:4.044
+SolarSim started at 2022-04-07T10:42:57
+SolarSim read in completed at 2022-04-07T10:42:58
+SolarSim finished at 556 seconds started at 2022-04-07T10:42:57
+[-0.19142668 -0.12779001 -0.81884762  2.14555695  1.09191675]:
+Min:24.49	End:46.93	Max:80.02	CostFunction:-46.93
+Driving Time:149942	Average Velocity:72.53	Vstd:4.445
+SolarSim started at 2022-04-07T10:52:31
+SolarSim read in completed at 2022-04-07T10:52:32
+SolarSim finished at 561 seconds started at 2022-04-07T10:52:31
+[-0.19142668 -0.12779001 -0.81884762  1.64555695  1.59191675]:
+Min:26.16	End:48.27	Max:80.02	CostFunction:-48.27
+Driving Time:149926	Average Velocity:72.54	Vstd:4.461
+=========================
+      fun: -47.265798
+ hess_inv: <5x5 LbfgsInvHessProduct with dtype=float64>
+      jac: array([ 1.299112,  2.548974,  0.149944,  0.675212, -2.018026])
+  message: b'CONVERGENCE: REL_REDUCTION_OF_F_<=_FACTR*EPSMCH'
+     nfev: 72
+      nit: 3
+   status: 0
+  success: True
+        x: array([-0.19142668, -0.12779001, -0.81884762,  1.64555695,  1.09191675])
+[-0.19142668 -0.12779001 -0.81884762  1.64555695  1.09191675]
+
+
+
+SolarSim started at 2022-04-07T11:02:09
+SolarSim read in completed at 2022-04-07T11:02:10
+SolarSim finished at 568 seconds started at 2022-04-07T11:02:09
+[-0.19142668 -0.12779001 -0.81884762  1.64555695  1.09191675]:
+Min:24.84	End:47.27	Max:80.02	CostFunction:-47.27
+Driving Time:149918	Average Velocity:72.54	Vstd:4.089
